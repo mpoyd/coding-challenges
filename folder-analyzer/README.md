@@ -43,5 +43,9 @@ analyze-folders <directory>
   
 Then the specified output shall be generated.
 
+## Deliverables
+
+Write a program in the language of your choice which fulfills this requirement. Make sure, that you create small units of execution in order for later reusage. Also try to comment as much as possible your code, if something is not obvious.
+
 
 
