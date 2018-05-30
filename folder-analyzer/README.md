@@ -1,6 +1,6 @@
 # Folder Analyzer
 
-Goal of this program is to analyze a folder structure on your computer's filesystem in order to retrieve various statistics about the files contained. The main purpose of the program is to categorize the files which are scanned into these categories:
+Goal of this program is to analyze a *folder structure* (folder and it's subfolder hierarchy) on your computer's filesystem in order to retrieve various statistics about the files contained. The main purpose of the program is to categorize the files which are scanned into these categories:
 - images
 - documents
 - music
