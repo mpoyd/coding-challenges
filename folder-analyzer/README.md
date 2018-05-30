@@ -12,8 +12,20 @@ The classification of a file should be done based on it's file extension. The ta
 found 7347 files in c:\root within 34 folders with  
 43% images (728 files)  
 30% documents (2203 files)  
-2% music (147 files)  
-15% (1101 files)  
-10% (734 files)  
+2% audio (147 files)  
+15% videos (1101 files)  
+10% other (734 files)  
 
+| Category   | File Associations    |
+| ------------- |:-------------:|
+| image      | jpeg, jpg, png, gif, svg |
+| document      | doc, docx, pdf, html, odt, ppt, pptx, txt      |
+| audio | mp3, wav, aac, wma    |
+| video | mp4, mpg, avi, wmv    |
+
+Note that there are much more file extensions for each category. As this requirement just serves educational purposes, it is not complete. For further information look here:
+[https://en.wikipedia.org/wiki/Video_file_format]
+[https://en.wikipedia.org/wiki/Audio_file_format]
+[https://en.wikipedia.org/wiki/Audio_file_format]
+[https://blog.filestack.com/thoughts-and-knowledge/document-file-extensions-list/]
 
