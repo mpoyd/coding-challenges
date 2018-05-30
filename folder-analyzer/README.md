@@ -18,12 +18,12 @@ found 7347 files in c:\root within 34 folders with
 
 ## File Categories
 
-| Category   | File Associations    |
-| ------------- |:-------------:|
-| image      | jpeg, jpg, png, gif, svg |
-| document      | doc, docx, pdf, html, odt, ppt, pptx, txt      |
-| audio | mp3, wav, aac, wma    |
-| video | mp4, mpg, avi, wmv    |
+| Category | File Associations                         |
+| ---------|:-----------------------------------------:|
+| image    | jpeg, jpg, png, gif, svg                  |
+| document | doc, docx, pdf, html, odt, ppt, pptx, txt |
+| audio    | mp3, wav, aac, wma                        |
+| video    | mp4, mpg, avi, wmv                        |
 
 Note that there are much more file extensions for each category. As this requirement just serves educational purposes, it is not complete. 
 
@@ -45,7 +45,13 @@ Then the specified output shall be generated.
 
 ## Deliverables
 
+Fork this repository and put your code inside this root folder.
+
 Write a program in the language of your choice which fulfills this requirement. Make sure, that you create small units of execution in order for later reusage. Also try to comment as much as possible your code, if something is not obvious.
+
+Feel free to deliver more functionality, if you like.
+
+Update the description here with information on howto test the program.
 
 
 
