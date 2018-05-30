@@ -1,4 +1,4 @@
-#Folder Analyzer
+# Folder Analyzer
 
 Goal of this program is to analyze a folder tree on your computer in order to retrieve various statistics about the files contained. The main purpose of the program is to categorize the files which are scanned into these categories:
 - images
@@ -16,6 +16,8 @@ found 7347 files in c:\root within 34 folders with
 15% videos (1101 files)  
 10% other (734 files)  
 
+## File Categories
+
 | Category   | File Associations    |
 | ------------- |:-------------:|
 | image      | jpeg, jpg, png, gif, svg |
@@ -30,4 +32,14 @@ https://en.wikipedia.org/wiki/Video_file_format
 https://en.wikipedia.org/wiki/Audio_file_format  
 https://en.wikipedia.org/wiki/Audio_file_format    
 https://blog.filestack.com/thoughts-and-knowledge/document-file-extensions-list/  
+
+## Program usage
+
+The idea is to use the program on the commandline like this:
+
+```
+analyze-folders <directory>
+```
+  
+Then the specified output shall be generated.
 
