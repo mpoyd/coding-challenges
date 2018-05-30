@@ -26,8 +26,8 @@ found 7347 files in c:\root within 34 folders with
 Note that there are much more file extensions for each category. As this requirement just serves educational purposes, it is not complete. 
 
 For further information look here:
-https://en.wikipedia.org/wiki/Video_file_format  
-https://en.wikipedia.org/wiki/Audio_file_format  
-https://en.wikipedia.org/wiki/Audio_file_format  
-https://blog.filestack.com/thoughts-and-knowledge/document-file-extensions-list/  
+https://en.wikipedia.org/wiki/Video_file_format \
+https://en.wikipedia.org/wiki/Audio_file_format \
+https://en.wikipedia.org/wiki/Audio_file_format \  
+https://blog.filestack.com/thoughts-and-knowledge/document-file-extensions-list/ \
 
