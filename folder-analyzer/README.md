@@ -49,7 +49,10 @@ Fork this repository and put your code inside this root folder.
 
 Write a program in the language of your choice which fulfills this requirement. Make sure, that you create small units of execution in order for later reusage. Also try to comment as much as possible your code, if something is not obvious.
 
-Feel free to deliver more functionality, if you like.
+Feel free to deliver more functionality, if you like. Some ideas here:
+- statistics based on file types (distribution of image file extensions among the image files)
+- implement switch to also consider hidden files
+- also count the file size and build an alternative statistic based on file size and not amount of files
 
 Update the description here with information on howto test the program.
 
