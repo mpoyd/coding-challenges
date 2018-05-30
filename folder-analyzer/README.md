@@ -1,4 +1,4 @@
-Folder Analyzer
+#Folder Analyzer
 
 Goal of this program is to analyze a folder tree on your computer in order to retrieve various statistics about the files contained. The main purpose of the program is to categorize the files which are scanned into these categories:
 - images
