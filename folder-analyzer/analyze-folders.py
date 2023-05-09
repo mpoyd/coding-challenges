@@ -40,6 +40,7 @@ for dirpath, dirnames, files in os.walk(directory):
     #We exclude hidden folders and files if the hidden files parameter is not set to countHidden
     if(hiddenFilesParameter!="countHidden"):
         dirnames[:] = [d for d in dirnames if not d.startswith('.')]
+        files[:] = [f for f in files if not f.startswith('.')]
     #Counting sub directories
     for dir in dirnames:
         folderCounter+= 1
